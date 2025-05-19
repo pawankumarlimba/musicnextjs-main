@@ -19,7 +19,7 @@ function Herosection() {
         className="mt-4  font-normal  text-base md:text-lg text-neutral-300 max-w-lg max-auto "
         >Dive into our comprehensive music course and 
             transform your musical journey today. Whether 
-            you're a beginner or looking to refine your 
+            you &apos; re a beginner or looking to refine your 
             skills ,join us to unlock your true potential.
         </p>
         <div className="mt-4">
